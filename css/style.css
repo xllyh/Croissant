@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  padding: 50px 100px;
+}
+h1 {
+  color: brown;
+}
+
+h4 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h4 a {
+  text-decoration: none;
+  color: orange;
+}
+
+img {
+  margin: 20px 0;
+}
